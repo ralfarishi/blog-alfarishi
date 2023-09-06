@@ -68,7 +68,7 @@ const config = {
 				items: [
 					// { to: "/blog", label: "Blog", position: "left" },
 					{
-						href: "https://github.com/ralfarishi",
+						href: "https://github.com/ralfarishi/blog-alfarishi",
 						label: "GitHub",
 						position: "right",
 					},
