@@ -1,0 +1,57 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+
+:root {
+	--ti-cursor-color: rgb(248, 3, 239);
+	--ti-cursor-font-size: 50px;
+}
+
+.container {
+	font-family: "arial";
+	font-size: 24px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 92.4vh;
+	background-image: url(https://images.unsplash.com/photo-1595123550441-d377e017de6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1906&q=80);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.customSpan {
+	font-family: "Fira Sans", sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	background-color: rgba(255, 255, 255, 0.304);
+}
+
+.heroBanner {
+	padding: 19% 0;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+	.heroBanner {
+		padding: 2rem;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		font-size: 18px;
+	}
+}
+
+.buttons {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 1rem;
+}
