@@ -3,6 +3,9 @@ slug: kustomisasi-windows-powershell
 title: Kustomisasi Windows Powershell
 authors: [ralfarishi]
 tags: ["powershell", "custom", "tutorial"]
+description: Cara meng-kustomisasi interface Windows Powershell menggunakan Oh My Posh.
+keywords: ["windows powershell", "install oh my posh"]
+image: /img/blogs/kustomisasi-windows-powershell/wsl-thumb.png
 ---
 
 ![Thumbnail](/img/blogs/kustomisasi-windows-powershell/wsl-thumb.png)

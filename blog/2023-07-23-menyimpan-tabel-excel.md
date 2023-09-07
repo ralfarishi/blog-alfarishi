@@ -3,6 +3,9 @@ slug: menyimpan-tabel-di-excel-menjadi-format-gambar-dengan-vba
 title: Menyimpan Tabel di Excel Menjadi Format Gambar Dengan VBA
 authors: [ralfarishi]
 tags: ["excel", "vba", "tutorial"]
+description: Cara menyimpan tabel excel ke format gambar menggunakan VBA.
+keywords: ["konversi tabel menjadi gambar", "tutorial excel vba"]
+images: /img/blogs/menyimpan-tabel-di-excel-menjadi-format-gambar-dengan-vba/thumbnail.png
 ---
 
 ![Thumbnail](/img/blogs/menyimpan-tabel-di-excel-menjadi-format-gambar-dengan-vba/thumbnail.png)

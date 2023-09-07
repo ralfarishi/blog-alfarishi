@@ -80,6 +80,13 @@ const config = {
 				darkTheme: darkCodeTheme,
 				additionalLanguages: ["php", "dot"],
 			},
+
+			metadata: [
+				{
+					name: "robots",
+					content: "index,follow",
+				},
+			],
 		}),
 };
 

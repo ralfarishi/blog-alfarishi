@@ -3,6 +3,9 @@ slug: hosting-laravel-di-cpanel
 title: Hosting Laravel di cPanel
 authors: [ralfarishi]
 tags: ["deployment", "laravel", "cpanel"]
+description: Tutorial untuk meng-hosting aplikasi Laravel di cPanel dengan mudah. Dengan tutorial ini, Anda akan memiliki pemahaman mendalam tentang konfigurasi server dan manajemen proyek web laravel menggunakan cPanel.
+keywords: ["hosting laravel", "cara hosting laravel", "hosting laravel cpanel"]
+image: /img/blogs/hosting-laravel-di-cpanel/thumbnail.png
 ---
 
 ![Thumbnail](/img/blogs/hosting-laravel-di-cpanel/thumbnail.png)
