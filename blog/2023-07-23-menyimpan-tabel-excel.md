@@ -28,7 +28,7 @@ perhatikan langkah-langkah berikut:
 3. Letakkan tombol pada lembar kerja excel dan secara otomatis akan membuka dialog macro.
 4. Buat macro baru dengan nama `*Konversi` dan pilih New.
 
-:::info
+:::note
 (\*) Nama macro bisa diberikan sesuai keinginan
 :::
 
@@ -40,7 +40,7 @@ perhatikan langkah-langkah berikut:
 
 6. Selanjutnya tambahkan script berikut ke dalam method macro tersebut.
 
-```visual-basic
+```visual-basic {8}
 Sub Konversi()
     Dim ChO As ChartObject, ExportName As String
     Dim CopyRange As Range
