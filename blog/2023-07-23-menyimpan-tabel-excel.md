@@ -40,7 +40,7 @@ perhatikan langkah-langkah berikut:
 
 6. Selanjutnya tambahkan script berikut ke dalam method macro tersebut.
 
-```js
+```visual-basic
 Sub Konversi()
     Dim ChO As ChartObject, ExportName As String
     Dim CopyRange As Range
