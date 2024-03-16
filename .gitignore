@@ -19,6 +19,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+docs/tutorial-basics
+
 src/pages/markdown-page.md
 
 static/img/docusaurus-social-card.jpg

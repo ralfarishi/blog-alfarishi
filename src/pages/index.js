@@ -1,10 +1,10 @@
-import React from "react";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import TypeIt from "typeit-react";
 
 import styles from "./index.module.css";
+
+import TypeIt from "typeit-react";
 
 function HomepageHeader() {
 	const { siteConfig } = useDocusaurusContext();
@@ -30,7 +30,7 @@ function HomepageHeader() {
 export default function Home() {
 	return (
 		<Layout
-			// title={siteConfig.title}
+			// title={`Hello from ${siteConfig.title}`}
 			description="This is Ramiza Al Farishi personal blog website."
 		>
 			<main>
